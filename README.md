@@ -1,2 +1,2 @@
 # guacamole
-Gaia und Astrometry Combiner Achieving More precise Orbits as Less Effort
+Gaia und Astrometry Combiner Achieving More precise Orbits at Less Effort
